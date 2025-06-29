@@ -1,0 +1,7 @@
+[package]
+name="secret_vote_tally"
+type="bin"
+authors = ["cypriansakwa"]
+compiler_version = ">=1.0.0"
+
+[dependencies]
