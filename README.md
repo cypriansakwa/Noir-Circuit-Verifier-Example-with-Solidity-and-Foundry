@@ -18,7 +18,7 @@ This repo demonstrates a complete end-to-end pipeline for:
 ├── circuits/          # Contains Noir circuits and tests
 ├── contract/          # Foundry project: Solidity verifier + test contract
 ├── js/                # JS utility to generate proofs and save them
-
+```
 ### Requirements
 
 - [Noir 1.0.0-beta.6](https://github.com/noir-lang/noir/releases)
